@@ -1,0 +1,175 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.container{
+    margin: 0 auto;
+   max-width:1440px;
+    width: 96%;
+}
+.header_area{
+    background-color: bisque;
+}
+.head{
+    display: flex;
+    width: 1440px;
+    height: 133px;
+    justify-content: space-between;
+    align-items: center;
+}
+.head ul li{
+    display: inline-block;
+    list-style: none;
+}
+.head ul li a{
+    text-decoration: none;
+}
+.button{
+    padding: 20px;
+    background-color: azure;
+    border: 1px solid black;
+    height: 30px;
+}
+.button a{
+    text-decoration: none;
+    color:black;
+    border: 2px solid blue;
+    border-radius: 5px;
+
+
+
+}
+
+
+
+.bnr-img{
+    position: relative;
+    background-image: url(img/bnr.png);
+    background-size: cover;
+    height: 616px;
+}
+
+.bnr-text{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50% );
+}
+.about-img{
+    display: flex;
+}
+.find{
+    background-color: green;
+    color:white;
+}
+
+
+
+.Want-img{
+    display: flex;
+    background-color: rgb(214, 175, 214);
+}
+.form input{
+    background-color: rgb(191, 136, 198);
+}
+.time{
+    background-color: chartreuse;
+}
+
+.redius_pic{
+    display: flex;
+
+
+
+}
+.Philosophy-area {
+    background-color: aquamarine;
+}
+
+
+
+
+
+
+
+
+
+.Philosophy-img {
+    display: flex;
+    background-color: rgb(126, 126, 141);
+}
+.Philosophy-text{
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+
+
+
+
+
+
+.man-area{
+    display: flex;
+}
+.man-text-area{
+  display: 
+}
+.man-box{
+    border-radius: 5px;
+    background-color: chartreuse;
+    align-items: center;
+    height: 80px;
+}
+
+
+
+
+
+
+
+
+
+.maind{
+    background-color: rgb(156, 93, 10);
+}
+
+
+
+.footer-area{
+    background-color: darkgrey;
+}
+.footer-logo{
+    display: flex;
+    width: 1440px;
+    height: 133px;
+    justify-content: space-between;
+    align-items: center;
+}
+.footer-logo ul li{
+    display: inline-block;
+    list-style: none;
+}
+.footer-logo ul li a{
+    text-decoration: none;
+}
+.button{
+    padding: 20px;
+    background-color: azure;
+    border: 1px solid black;
+    height: 30px;
+}
+.button a{
+    text-decoration: none;
+    color:black;
+    border: 2px solid blue;
+    border-radius: 5px;
+
+
+
+}
+
+}
